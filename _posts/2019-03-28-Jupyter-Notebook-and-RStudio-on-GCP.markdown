@@ -37,7 +37,7 @@ $ python
 >>> from notebook.auth import passwd
 >>> passwd()
 Enter password:
-Veryfy password:
+Verify password:
 'sha1:761980024bdb:3379e2ab50f8dd8333f99c2f46b6eb1fa81cde1b'
 >>> quit()
 ```
