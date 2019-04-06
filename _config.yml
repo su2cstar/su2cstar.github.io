@@ -51,8 +51,8 @@ descriptions:
   - cat: GCP
     desc: "Posts about using Google Cloud Platform"
 
-#  - cat: dummy
-#    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: PRML
+    desc: "Pattern Recognition and Machine Learning, Christopher M. Bishop"
 
 # Social icons and sharing options
 #
