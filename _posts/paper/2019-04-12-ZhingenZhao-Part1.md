@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bayesian Variable Selection Part 1"
+title: "Zhigen Zhao Part 1"
 date:   2019-04-12T00:00:00
 author: Juyoung Ahn
 categories: Bayesian-Variable-Selection
