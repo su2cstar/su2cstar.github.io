@@ -14,4 +14,5 @@ mnist데이터의 예시는 28*28 픽셀의 손글씨로 쓰인 숫자데이터�
 
 머신러닝 알고리즘을 사용하여서 더 나은 결과를 얻을 수 있다.
 
-* N개의 숫자들 $$ \left\{ X_{1}, \cdots, X_{n} \right\} $$ 을 **훈련집합(Training set)** 활용하여
+* N개의 숫자들 $$ \left\{ X_{1}, \cdots, X_{n} \right\} $$ 을 **훈련집합(Training set)** 활용하여 변경 가능한 모델의 매개변수들을 조절하는 방법(Hyper parameter tuning)
+* 훈련집합에 있는 숫자들의 카테고리(정답)를 **표적 벡터(target vector)** $$\boldsymbol{t}$$
