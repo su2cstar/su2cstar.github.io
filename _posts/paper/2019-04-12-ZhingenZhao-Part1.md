@@ -107,9 +107,9 @@ $$
 BFCR = \int PFCR(\boldsymbol{Y}) m(\boldsymbol{Y})\boldsymbol{d} \boldsymbol{Y}
 $$
 
-where $m(\boldsymbol{Y})$ is the marginal density of $\boldsymbol{Y}$\\
+where $m(\boldsymbol{Y})$ is the marginal density of $\boldsymbol{Y}$
 
-If $P(\beta_i \notin CI_i \| \boldsymbol{Y}) \le \alpha$ for all $i = 1,2, \dots ,p$ then both PFCR and BFCR are less than or equal to $\alpha$ for any selection rule $\mathcal{R}(\boldsymbol{Y})$. Thus $100(1-\alpha)\%$ credible intervals obtained from posterior can avoid adjusting for selection rule, but do not have good inferential properties.\\
+If $P(\beta_i \notin CI_i \| \boldsymbol{Y}) \le \alpha$ for all $i = 1,2, \dots ,p$ then both PFCR and BFCR are less than or equal to $\alpha$ for any selection rule $\mathcal{R}(\boldsymbol{Y})$. Thus $100(1-\alpha)\%$ credible intervals obtained from posterior can avoid adjusting for selection rule, but do not have good inferential properties.
 
 Let $\psi(\beta_i\|\boldsymbol{Y},\beta_i \ne 0)$ be the posterior distribution of $\beta_i$ given $\beta_i \ne 0$
 
