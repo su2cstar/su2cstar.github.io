@@ -52,7 +52,7 @@ $ sudo nano ~/.jupyter/jupyter_notebook_config.py
 ```
 주피터 노트북 설정 파일을 생성해준후 nano 에디터로 접근하여 내부의 정보를 수정해준다. text에디터로는 주로 vi에디터를 사용하지만 vi에디터 사용이 익숙하지 않다면 nano에디터를 사용하는 것을 추천한다
 ```
-c.NotebookApp.ip = ‘*’
+c.NotebookApp.ip = '*'
 c.NotebookApp.open_browser = False
 c.NotebookApp.port = 5000
 c.NotebookApp.password = u'sha1:761980024bdb:3379e2ab50f8dd8333f99c2f46b6eb1fa81cde1b'
@@ -139,7 +139,7 @@ $ jupyter notebook --generate-config
 $ sudo nano ~/.jupyter/jupyter_notebook_config.py
 
 
-c.NotebookApp.ip = ‘*’
+c.NotebookApp.ip = '*'
 c.NotebookApp.open_browser = False
 c.NotebookApp.port = 5000
 c.NotebookApp.password = u'sha1:e1ce4747245a:3946d978361582171122d8275ef857edfb011254'
